@@ -1,0 +1,4 @@
+baseURL = 'https://sergiojimenez.de'
+languageCode = 'en-us'
+title = 'Sergio Jimenez'
+theme = 'hugo-theme-stack'
